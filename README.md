@@ -56,11 +56,7 @@ This project is a Node.js application that scrapes Instagram profiles for specif
 - You can modify the port number in `index.js` by changing the `port` variable.
 - Adjust Puppeteer settings or Instagram URL structures in `index.js` as needed.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
+#####
 
 Make sure to replace `<repository-url>` with the actual URL of your repository.
 
